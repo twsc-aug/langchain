@@ -1,2 +1,2 @@
 # langchain
-some studies
+personal studies
